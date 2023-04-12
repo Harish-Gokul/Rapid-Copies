@@ -18,7 +18,7 @@ var sample_json = [
             "payment_status": "not_paid",
             "status": "Initiated",
             "s_no": 1,
-            "date": "20-7-2022",
+            "date": "20-7-1899",
             "time": "11Hrs 2Mins 15Sec"
         }
     },
@@ -41,7 +41,7 @@ var sample_json = [
             "payment_status": "not_paid",
             "status": "Initiated",
             "s_no": 2,
-            "date": "20-7-2022",
+            "date": "20-7-1899",
             "time": "11Hrs 2Mins 32Sec"
         }
     },
@@ -64,7 +64,7 @@ var sample_json = [
             "payment_status": "paid",
             "status": "Initiated",
             "s_no": 3,
-            "date": "20-7-2022",
+            "date": "20-7-1899",
             "time": "11Hrs 2Mins 43Sec"
         }
     }
